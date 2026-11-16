@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.exe
+*.obj
+*.o
+layout_demo
